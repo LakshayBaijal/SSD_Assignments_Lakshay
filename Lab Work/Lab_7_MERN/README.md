@@ -3,6 +3,7 @@
 
 # Install using -
 NPM install
+
 in both client and server directory
 
 This project is a MERN Stack web application for managing To-Do tasks and handling student queries. It consists of two main pages:
