@@ -1,14 +1,14 @@
-#Lakshay Baijal SSD
+# Lakshay Baijal SSD
 
-#2024202006 Lab 7
+# 2024202006 Lab 7
 
-##README.md
+## README.md
 
-##Project Overview
+## Project Overview
 
-#Install using -
-##NPM install
-##in both client and server directory
+# Install using -
+## NPM install
+## in both client and server directory
 
 This project is a MERN Stack web application for managing To-Do tasks and handling student queries. It consists of two main pages:
 
