@@ -2,9 +2,9 @@
 
 ## Pre Requisites Install
 
+inside both frontend and backend folders. it will install node modules.
 - NPM Install
 
-inside both frontend and backend folders. it will install node modules.
 
 Watch 
 
