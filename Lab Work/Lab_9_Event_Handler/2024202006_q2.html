@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Index Login Page 2024202006 Lab 9</title>
+    <link rel="stylesheet" href="2024202006_q2.css" />
+  </head>
+
+  <body>
+    <div class="common">
+      <section class="section">
+        <h1>Welcome User</h1>
+        <h2>Login Page</h2>
+        <form class="login-form" id="loginForm" novalidate>
+          <br />
+          <div class="input-field">
+            <input
+              type="text"
+              id="username"
+              placeholder="Enter your username"
+              required
+            />
+            <span
+              id="usernameError"
+              class="error-message"
+              aria-live="assertive"
+            ></span>
+          </div>
+          <br />
+          <div class="input-field">
+            <input
+              type="password"
+              id="password"
+              placeholder="Enter your password"
+              required
+            />
+            <span
+              id="passwordError"
+              class="error-message"
+              aria-live="assertive"
+            ></span>
+          </div>
+          <div class="remember-me">
+            <label> <input type="checkbox" /> Remember Me </label>
+          </div>
+          <br />
+          <button type="submit" class="button-login">Login</button>
+        </form>
+      </section>
+    </div>
+
+    <script src="2024202006_q2.js"></script>
+  </body>
+</html>
